@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[mylogo](https://raw.githubusercontent.com/momijizen/momijizen/main/maple.png)
+![mylogo](/maple.png)
