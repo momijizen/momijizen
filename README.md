@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="/maple.png" alt="maple" style="width:150px;"/>
+<img src="/maple.png" alt="maple" style="width:200px;"/>
