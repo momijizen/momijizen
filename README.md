@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![mylogo](/maple.png){ width: 200px; }
+<img src="/maple.png" alt="maple" style="width:50px;"/>
