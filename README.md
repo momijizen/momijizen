@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![mylogo](/maple.png/50x50)
+![mylogo](/maple.png =50x)
